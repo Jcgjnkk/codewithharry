@@ -1,2 +1,74 @@
-# codewithharry
-it is website which i done in vs code for first time 
+<body>
+  <header>
+    <!-- naving with details  -->
+    <nav>
+      <div class="naving">
+      <a href="https://www.codewithharry.com">codewithharry</a>
+      <a href="https://www.codewithharry.com">about us</a>
+      <a href="https://www.codewithharry.com">my courses</a>
+      <a href="https://www.codewithharry.com">contact us</a>
+      <input type="text"placeholder="courses">
+      <button>Search</button>
+  </div>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <!-- details about the courses  -->
+
+    <h1>Welcome to CodeWithHarry</h1>
+    <p>This is a practice page for HTML and CSS.</p>
+    <br>
+    <div class="content">
+      <p >Here you can find various resources and courses to enhance your coding skills.</p>
+      <br>
+        <p>Welcome to CodeWithHarry, your comprehensive platform for learning programming and web development. Our mission is to make quality education accessible to everyone, whether you are just starting your coding journey or looking to advance your skills. Here, you will find a wide variety of free courses, tutorials, and resources covering popular technologies such as HTML, CSS, JavaScript, Python, and more.
+        <br><br><br>
+       We believe in hands-on learning and practical examples, so each course is designed to help you build real-world projects and gain confidence in your abilities. Join our community of passionate learners and take the next step towards becoming a skilled developer. Start exploring today and unlock your potential with CodeWithHarry!
+      </p></p></p>
+    </section>
+    <article>
+       <h2>courses</h2>
+       <br>
+       <!-- courses  -->
+
+       <p class="paras">this courses are present free in the website</p>
+       <ul class="details">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>PHP</li>
+        <li>SQL</li>
+        <li>Machine Learning</li>
+        <li>Data Science</li>
+        <li>Web Development</li>
+      </ul>
+        <!-- enroll  -->
+
+      <div class="buttom">
+      <button id="enroll"><b>enroll now</b></button>
+      </div>
+    </div>
+  </article>
+      <!-- aside  -->
+
+  <aside>
+     
+  </aside>
+  </main>
+      <!-- footer  -->
+
+  <footer>
+    <p class="footer">&copy; 2025 CodeWithHarry. All rights reserved.</p>
+    <p class="footer">Follow us on:
+      <a href="https://www.facebook.com">| Facebook</a> |
+      <a href="https://www.twitter.com">Twitter</a> |
+      <a href="https://www.instagram.com">Instagram</a>
+    </p>
+  </footer>
+</body>
+</html>
